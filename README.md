@@ -17,10 +17,10 @@ For better scalabilty and mainainablity files from sparkify music streaming app 
 ![songplays](resource/songplays.png)
 
 
-![users](resource/users.PNG)
+![users](resource/user.PNG)
 
 
-![artists](resource/artists.PNG)
+![artists](resource/artist.PNG)
 
 
 ![songs](resource/songs.PNG)
