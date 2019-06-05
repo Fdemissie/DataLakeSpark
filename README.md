@@ -14,7 +14,7 @@ For better scalabilty and mainainablity files from sparkify music streaming app 
 
 # Sample query
 ***
-![songplays](resource/songplays.png)
+![songplays](resource/songplays.PNG)
 
 
 ![users](resource/user.PNG)
